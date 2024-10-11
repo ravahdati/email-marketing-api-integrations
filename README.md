@@ -11,11 +11,11 @@ This repository contains a collection of API integrations for popular email mark
 
 ## Repository Structure
 
-- **PHP/**
+- **PHP**
   - Contains the PHP implementation for MailWizz and MailerLite integrations.
-- **.NET/**
+- **.NET**
   - Contains the C# (.NET) implementations for MailWizz and MailerLite integrations.
-- **Python/**
+- **Python**
   - Contains the Python implementations for MailWizz and MailerLite integrations.
 
 ## Prerequisites
