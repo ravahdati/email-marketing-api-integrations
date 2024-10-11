@@ -1,4 +1,4 @@
-# PHP MailWizz Newsletter Integration
+# PHP MailWizz Email Sender
 
 This PHP script integrates with the MailWizz API using the `twisted1919/mailwizz-php-sdk`. It allows you to subscribe users to a MailWizz email list via a REST API.
 
