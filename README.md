@@ -7,7 +7,7 @@ This repository contains a collection of API integrations for popular email mark
 - **MailWizz**
   - A powerful email marketing application to manage your mailing lists, send campaigns, and track your results.
 - **MailerLite**
-  - A simple and effective email marketing tool for creating, sending, and tracking email campaigns
+  - A simple and effective email marketing tool for creating, sending, and tracking email campaigns.
 
 ## Repository Structure
 
